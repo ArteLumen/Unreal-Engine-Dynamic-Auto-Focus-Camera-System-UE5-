@@ -1,4 +1,3 @@
-# Unreal-Engine-Dynamic-Auto-Focus-Camera-System-UE5-
 # 📷 Unreal Engine Dynamic Auto-Focus Camera System (UE5)
 
 A lightweight, performant **C++** and **Blueprint-compatible** Auto-Focus System for Unreal Engine 5. This project uses continuous single-channel Line Tracing combined with smoothly interpolated focus distance updates (`FInterpTo`) on a `CineCameraComponent` to simulate realistic camera focus dynamics.
